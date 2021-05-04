@@ -18,7 +18,7 @@ ActiveRecord::Schema.define(version: 2021_05_04_003037) do
     t.string "cover_image"
     t.string "summary"
     t.string "language"
-    t.integer "price"
+    t.float "price"
     t.string "genre"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

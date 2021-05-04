@@ -4,6 +4,8 @@
 
 # book_ = Book.create(title: "", author: "", cover_image: "", summary: "", language: "", price: , genre: "") 
 
+Book.delete_all
+
 book_1 = Book.create(title: "They Both Die at the End", author: "Adam Silvera", cover_image: "https://prodimage.images-bn.com/pimages/9780062457806_p0_v2_s550x406.jpg", summary: "
     Adam Silvera reminds us that there’s no life without death and no love without loss in this devastating yet uplifting story about two people whose lives change over the course of one unforgettable day.
     New York Times bestseller * 4 starred reviews * A School Library Journal Best Book of the Year * A Kirkus Best Book of the Year * A Booklist Editors' Choice of 2017 * A Bustle Best YA Novel of 2017 * A Paste Magazine Best YA Book of 2017 * A Book Riot Best Queer Book of 2017 * A Buzzfeed Best YA Book of the Year * A BookPage Best YA Book of the Year
@@ -44,7 +46,7 @@ book_4 = Book.create(title: "Any Way the Wind Blows", author: "Rainbow Rowell", 
     
     Carry On was conceived as a book about Chosen One stories; Any Way the Wind Blows is an ending about endings. About catharsis and closure, and how we choose to move on from the traumas and triumphs that try to define us.", language: "English", price: 15.99, genre: "Fiction")
 
-book_5 = Book.create(title: "Firekeeper's Daughter", author: "Angeline Boulley", cover_image: "", summary: "Debut author Angeline Boulley has crafted an immersive and heart-stopping thriller told through the eyes of 18-year-old Daunis, a biracial, unenrolled member of the Ojibwe tribe. With crystal meth abuse on the rise in her community, Daunis uses her knowledge of science and native medicine to go undercover as a confidential informant with the FBI, but what she uncovers makes her question everything she’s ever known. Boulley’s authentic depictions of the complexities of Native communities and the trauma and strength of Native women, specifically, make this book a complete standout for YA and adult readers alike.", language: "English", price: 14.99, genre: "Fiction")
+book_5 = Book.create(title: "Firekeeper's Daughter", author: "Angeline Boulley", cover_image: "https://prodimage.images-bn.com/pimages/9781250766564_p0_v7_s550x406.jpg", summary: "Debut author Angeline Boulley has crafted an immersive and heart-stopping thriller told through the eyes of 18-year-old Daunis, a biracial, unenrolled member of the Ojibwe tribe. With crystal meth abuse on the rise in her community, Daunis uses her knowledge of science and native medicine to go undercover as a confidential informant with the FBI, but what she uncovers makes her question everything she’s ever known. Boulley’s authentic depictions of the complexities of Native communities and the trauma and strength of Native women, specifically, make this book a complete standout for YA and adult readers alike.", language: "English", price: 14.99, genre: "Fiction")
 
 book_6 = Book.create(title: "Caste (Oprah's Book Club): The Origins of Our Discontents", author: "Isabel Wilkerson", cover_image: "https://prodimage.images-bn.com/pimages/9780593230251_p0_v4_s550x406.jpg", summary: "Sometimes we read something so fundamentally stirring that we find ourselves speechless in the face of so many tumbling thoughts. Caste is one of those books. Isabel Wilkerson is one of those writers. She reminds us that “we are responsible for our own ignorance or, with time and openhearted enlightenment, our own wisdom.” In this magnificent work of history, narrative, social commentary, philosophy and inspired storytelling, she offers us a new frame, a deeper focal point and new language to help us toward a reckoning long overdue. Quite a gift.", language: "English", price: 23.99 , genre: "History") 
 
@@ -89,6 +91,7 @@ book_10 = Book.create(title: "The Bomber Mafia: A Dream, a Temptation, and the L
     In contrast, the bombing of Tokyo on the deadliest night of the war was the brainchild of General Curtis LeMay, whose brutal pragmatism and scorched-earth tactics in Japan cost thousands of civilian lives, but may have spared even more by averting a planned US invasion. In The Bomber Mafia, Gladwell asks, “Was it worth it?”
      
     Things might have gone differently had LeMay’s predecessor, General Haywood Hansell, remained in charge. Hansell believed in precision bombing, but when he and Curtis LeMay squared off for a leadership handover in the jungles of Guam, LeMay emerged victorious, leading to the darkest night of World War II. The Bomber Mafia is a riveting tale of persistence, innovation, and the incalculable wages of war.", language: "English", price: 21.49 , genre: "History") 
+
 
 
 

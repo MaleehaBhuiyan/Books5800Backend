@@ -6,7 +6,7 @@ class CreateBooks < ActiveRecord::Migration[6.0]
       t.string :cover_image
       t.string :summary
       t.string :language
-      t.integer :price
+      t.float :price
       t.string :genre
 
       t.timestamps
