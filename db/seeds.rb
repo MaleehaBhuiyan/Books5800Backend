@@ -95,4 +95,110 @@ book_10 = Book.create(title: "The Bomber Mafia: A Dream, a Temptation, and the L
 
 
 
+book_11 = Book.create(title: "Pride and Premeditation", author: "Tirzah Price", cover_image: "https://prodimage.images-bn.com/pimages/9780063116443_p0_v2_s550x406.jpg", summary: "Pride and Premeditation is the fresh and fun spin on a treasured Jane Austen classic we didn’t know we needed. Rather than getting married, 17-year-old Lizzie Bennett is set on becoming a barrister just like her father. When Charles Bingley is accused of murder, Lizzie takes it upon herself to prove his innocence and her legal prowess. Twists and turns abound in this delightfully authentic, yet still utterly original reinterpretation of Pride and Prejudice.", language: "English", price: 14.99 , genre: "Mystery") 
+
+
+book_12 = Book.create(title: "A Good Girl's Guide to Murder", author: "Holly Jackson", cover_image: "https://prodimage.images-bn.com/pimages/9781984896391_p0_v2_s550x406.jpg", summary: "Pretty and popular high school senior Andie Bell was murdered by her boyfriend, Sal Singh, who then killed himself. It was all anyone could talk about. And five years later, Pip sees how the tragedy still haunts her town.
+
+    But she can't shake the feeling that there was more to what happened that day. She knew Sal when she was a child, and he was always so kind to her. How could he possibly have been a killer?
+    
+    Now a senior herself, Pip decides to reexamine the closed case for her final project, at first just to cast doubt on the original investigation. But soon she discovers a trail of dark secrets that might actually prove Sal innocent . . . and the line between past and present begins to blur. Someone in Fairview doesn't want Pip digging around for answers, and now her own life might be in danger.
+    ", language: "English", price: 9.99 , genre: "Mystery") 
+
+
+book_13 = Book.create(title: "Long Way Down", author: "Jason Reynolds", cover_image: "https://prodimage.images-bn.com/pimages/9781481438261_p0_v11_s550x406.jpg", summary: "As the elevator stops on the sixth floor, on comes Buck. Buck, Will finds out, is who gave Shawn the gun before Will took the gun. Buck tells Will to check that the gun is even loaded. And that’s when Will sees that one bullet is missing. And the only one who could have fired Shawn’s gun was Shawn. Huh. Will didn’t know that Shawn had ever actually USED his gun. Bigger huh. BUCK IS DEAD. But Buck’s in the elevator?", language: "English", price: 10.49 , genre: "Mystery") 
+
+
+book_14 = Book.create(title: "Good Girl, Bad Blood", author: "Holly Jackson", cover_image: "https://prodimage.images-bn.com/pimages/9781984896407_p0_v1_s550x406.jpg", summary: "With the help of Ravi Singh, she released a true-crime podcast about the murder case they solved together last year. The podcast has gone viral, yet Pip insists her investigating days are behind her.
+
+    But she will have to break that promise when someone she knows goes missing. Jamie Reynolds has disappeared, on the very same night the town hosted a memorial for the sixth-year anniversary of the deaths of Andie Bell and Sal Singh.
+    
+    The police won't do anything about it. And if they won't look for Jamie then Pip will, uncovering more of her town's dark secrets along the way... and this time everyone is listening. But will she find him before it's too late?", language: "English", price: 15.99 , genre: "Mystery") 
+
+
+book_ = Book.create(title: "The Grace Year", author: "Kim Liggett", cover_image: "https://prodimage.images-bn.com/pimages/9781250145451_p0_v10_s550x406.jpg", summary: "Though set in a dystopian world, this unputdownable thriller is a haunting exploration into the all-too-real way society sees and treats women and the complicated relationships women have amongst themselves. Readers will be mesmerized by Liggett's immersive world-building and captivated by the nonstop action. Deeply unsettling in the best way possible, The Grace Year will stay with you for years to come.", language: "English", price: 10.99 , genre: "Mystery") 
+
+
+book_15 = Book.create(title: "Five Total Strangers", author: "Natalie D. Richards", cover_image: "https://prodimage.images-bn.com/pimages/9781492657217_p0_v2_s550x406.jpg", summary: "Mira needs to get home for the holidays. Badly. But when an incoming blizzard results in a canceled connecting flight, it looks like she might get stuck at the airport indefinitely.
+
+    And then Harper, Mira's glamorous seatmate from her initial flight, offers her a ride. Harper and her three friends can drop Mira off on their way home. But as they set off, Mira realizes fellow travelers are all total strangers. And every one of them is hiding something.
+    
+    Soon, roads go from slippery to terrifying. People's belongings are mysteriously disappearing. Someone in the car is clearly lying, and may even be sabotaging the trip—but why? And can Mira make it home alive, or will this nightmare drive turn fatal?
+    
+    ", language: "English", price: 9.99 , genre: "Mystery") 
+
+
+book_16 = Book.create(title: "The Cousins", author: "Karen M. McManus", cover_image: "https://prodimage.images-bn.com/pimages/9780593305362_p0_v1_s550x406.jpg", summary: "Milly, Aubrey, and Jonah Story are cousins, but they barely know each another, and they've never even met their grandmother. Rich and reclusive, she disinherited their parents before they were born. So when they each receive a letter inviting them to work at her island resort for the summer, they're surprised . . . and curious.", language: "English", price: 19.99 , genre: "Mystery") 
+
+
+book_17 = Book.create(title: "The Twin", author: "Natasha Preston", cover_image: "https://prodimage.images-bn.com/pimages/9780593124963_p0_v1_s550x406.jpg", summary: "After their parents divorced, 10-year-old twins Ivy and Iris were split up—Ivy lived with Dad, Iris with Mom. Now, after a tragic accident takes their mom's life, the twins are reunited and Iris moves in with Ivy and their dad. Devastated over Mom's death, Iris spends the first few weeks in almost total silence—the only person she will speak to is Ivy. Iris feels her life is over and she doesn't know what to do. Ivy promises her twin that she can share her life now. After all, they're sisters. Twins.", language: "English", price: 9.99 , genre: "Mystery") 
+
+
+book_18 = Book.create(title: "Monday's Not Coming", author: "Tiffany D. Jackson", cover_image: "https://prodimage.images-bn.com/pimages/9780062422682_p0_v1_s550x406.jpg", summary: "From the critically acclaimed author of Allegedly, Tiffany D. Jackson, comes a gripping novel about the mystery of one teenage girl’s disappearance and the traumatic effects of the truth.
+
+    Monday Charles is missing, and only Claudia seems to notice. Claudia and Monday have always been inseparable—more sisters than friends. So when Monday doesn’t turn up for the first day of school, Claudia’s worried.
+    
+    When she doesn’t show for the second day, or second week, Claudia knows that something is wrong. Monday wouldn’t just leave her to endure tests and bullies alone. Not after last year’s rumors and not with her grades on the line. Now Claudia needs her best—and only—friend more than ever. But Monday’s mother refuses to give Claudia a straight answer, and Monday’s sister April is even less help.", language: "English", price: 10.99, genre: "Mystery") 
+
+
+book_19 = Book.create(title: "I Killed Zoe Spanos", author: "Kit Frick", cover_image: "https://prodimage.images-bn.com/pimages/9781534449701_p0_v13_s550x406.jpg", summary: "When Anna Cicconi arrives to the small Hamptons village of Herron Mills for a summer nanny gig, she has high hopes for a fresh start. What she finds instead is a community on edge after the disappearance of Zoe Spanos, a local girl who has been missing since New Year’s Eve. Anna bears an eerie resemblance to Zoe, and her mere presence in town stirs up still-raw feelings about the unsolved case. As Anna delves deeper into the mystery, stepping further and further into Zoe’s life, she becomes increasingly convinced that she and Zoe are connected—and that she knows what happened to her.", language: "English", price: 18.99, genre: "Mystery") 
+
+
+book_20 = Book.create(title: "The Leaving", author: "Tara Altebrando", cover_image: "https://prodimage.images-bn.com/pimages/9781681194035_p0_v2_s550x406.jpg", summary: "Eleven years ago, six kindergartners went missing without a trace. After all that time, the people left behind moved on, or tried to.
+
+    Until today. Today five of those kids return. They’re sixteen, and they are . . . fine. Scarlett comes home and finds a mom she barely recognizes, and doesn't really recognize the person she's supposed to be, either. But she thinks she remembers Lucas. Lucas remembers Scarlett, too, except they’re entirely unable to recall where they’ve been or what happened to them. Neither of them remember the sixth victim, Max—the only one who hasn’t come back. Which leaves Max's sister, Avery, wanting answers. She wants to find her brother—dead or alive—and isn’t buying this whole memory-loss story. But as details of the disappearance begin to unfold, no one is prepared for the truth.", language: "English", price: 10.99 , genre: "Mystery") 
+
+
+book_21 = Book.create(title: "Once Upon a Broken Heart", author: "Stephanie Garber", cover_image: "https://prodimage.images-bn.com/pimages/9781250838056_p0_v2_s550x406.jpg", summary: "Evangeline Fox was raised in her beloved father’s curiosity shop, where she grew up on legends about immortals, like the tragic Prince of Hearts. She knows his powers are mythic, his kiss is worth dying for, and that bargains with him rarely end well. 
+
+    But when Evangeline learns that the love of her life is about to marry another, she becomes desperate enough to offer the Prince of Hearts whatever he wants in exchange for his help to stop the wedding. The prince only asks for three kisses. But after Evangeline’s first promised kiss, she learns that the Prince of Hearts wants far more from her than she’s pledged. And he has plans for Evangeline that will either end in the greatest happily ever after, or the most exquisite tragedy…", language: "English", price: 19.99 , genre: "Romance") 
+
+
+book_22 = Book.create(title: "Daughter of the Pirate King", author: "Tricia Levenseller", cover_image: "https://prodimage.images-bn.com/pimages/9781250144225_p0_v1_s550x406.jpg", summary: "Sent on a mission to retrieve an ancient hidden map—the key to a legendary treasure trove—seventeen-year-old pirate captain Alosa deliberately allows herself to be captured by her enemies, giving her the perfect opportunity to search their ship. More than a match for the ruthless pirate crew, Alosa has only one thing standing between her and the map: her captor, the unexpectedly clever and unfairly attractive first mate Riden. But not to worry, for Alosa has a few tricks up her sleeve, and no lone pirate can stop the Daughter of the Pirate King. ", language: "English", price: 8.99 , genre: "Romance") 
+
+
+book_23 = Book.create(title: "Red Queen", author: "Victoria Aveyard", cover_image: "https://prodimage.images-bn.com/pimages/9780062310644_p0_v1_s550x406.jpg", summary: "Mare Barrow's world is divided by blood—those with common, Red blood serve the Silver-blooded elite, who are gifted with superhuman abilities. Mare is a Red, scraping by as a thief in a poor, rural village, until a twist of fate throws her in front of the Silver court. Before the king, princes, and all the nobles, she discovers she has an ability of her own.
+
+    To cover up this impossibility, the king forces her to play the role of a lost Silver princess and betroths her to one of his own sons. As Mare is drawn further into the Silver world, she risks everything and uses her new position to help the Scarlet Guard—a growing Red rebellion—even as her heart tugs her in an impossible direction.", language: "English", price: 10.99, genre: "Romance") 
+
+
+book_24 = Book.create(title: "Unravel Me", author: "Tahereh Mafi", cover_image: "https://prodimage.images-bn.com/pimages/9780062085542_p0_v1_s550x406.jpg", summary: "The thrilling second installment in New York Times bestselling author Tahereh Mafi’s Shatter Me series.
+    It should have taken Juliette a single touch to kill Warner. But his mysterious immunity to her deadly power has left her shaken, wondering why her ultimate defense mechanism failed against the person she most needs protection from.
+    
+    he and Adam were able to escape Warner’s clutches and join up with a group of rebels, many of whom have powers of their own. Juliette will finally be able to actively fight against The Reestablishment and try to fix her broken world. And perhaps these new allies can help her shed light on the secret behind Adam’s—and Warner’s—immunity to her killer skin.", language: "English", price: 11.99 , genre: "Romance") 
+
+
+book_25 = Book.create(title: "Glass Sword", author: "Victoria Aveyard", cover_image: "https://prodimage.images-bn.com/pimages/9780062310668_p0_v6_s550x406.jpg", summary: "Perfect for fans of George R.R. Martin’s Game of Thrones series, Glass Sword is the high-stakes follow-up to the #1 New York Times bestselling Red Queen.
+
+    Mare Barrow's blood is red—the color of common folk—but her Silver ability, the power to control lightning, has turned her into a weapon that the royal court tries to control. The crown calls her an impossibility, a fake, but as she makes her escape from Maven, the prince—the friend—who betrayed her, Mare uncovers something startling: she is not the only one of her kind.
+    
+    Pursued by Maven, now a vindictive king, Mare sets out to find and recruit other Red-and-Silver fighters to join in the struggle against her oppressors. But Mare finds herself on a deadly path, at risk of becoming exactly the kind of monster she is trying to defeat. Will she shatter under the weight of the lives that are the cost of rebellion? Or have treachery and betrayal hardened her forever?", language: "English", price: 17.99 , genre: "Romance") 
+
+
+book_26 = Book.create(title: "Into the Dark (Star Wars: The High Republic)", author: "Claudia Gray", cover_image: "https://prodimage.images-bn.com/pimages/9781368057288_p0_v4_s550x406.jpg", summary: "Padawan Reath Silas is being sent from the cosmopolitan galactic capital of Coruscant to the undeveloped frontier—and he couldn’t be less happy about it. He’d rather stay at the Jedi Temple, studying the archives. But when the ship he’s traveling on is knocked out of hyperspace in a galactic-wide disaster, Reath finds himself at the center of the action.", language: "English", price: 13.99 , genre: "Sci-Fi & Fantasy") 
+
+
+book_27 = Book.create(title: "The Ones We're Meant to Find", author: "Joan He", cover_image: "https://prodimage.images-bn.com/pimages/9781250833389_p0_v2_s550x406.jpg", summary: "Utterly captivating from start to finish, The Ones We’re Meant to Find is a genre-bending sci-fi meets thriller story set in a near-future dystopian world where climate change has ravaged the earth. When sisters Celia and Kasey are separated with no recollection as to how or why, each sister embarks on her journey back to the other. Twists and turns abound in this thought-provoking and heart-wrenching story that will linger with readers long after the last page.", language: "English", price: 15.99 , genre: "Sci-Fi & Fantasy") 
+
+
+book_28 = Book.create(title: "Shatter Me", author: "Tahereh Mafi", cover_image: "https://prodimage.images-bn.com/pimages/9780062085504_p0_v3_s550x406.jpg", summary: "The gripping first installment in New York Times bestselling author Tahereh Mafi’s Shatter Me series.
+    One touch is all it takes. One touch, and Juliette Ferrars can leave a fully grown man gasping for air. One touch, and she can kill.
+    
+    No one knows why Juliette has such incredible power. It feels like a curse, a burden that one person alone could never bear. But The Reestablishment sees it as a gift, sees her as an opportunity. An opportunity for a deadly weapon.", language: "English", price: 10.49 , genre: "Sci-Fi & Fantasy") 
+
+
+book_29 = Book.create(title: "The Maze Runner", author: "James Dashner", cover_image: "https://prodimage.images-bn.com/pimages/9780385737951_p0_v5_s550x406.jpg", summary: "When Thomas wakes up in the lift, the only thing he can remember is his name. He’s surrounded by strangers—boys whose memories are also gone.
+    Outside the towering stone walls that surround them is a limitless, ever-changing maze. It’s the only way out—and no one’s ever made it through alive.
+    Then a girl arrives. The first girl ever. And the message she delivers is terrifying: Remember. Survive. Run.
+ 
+ The Maze Runner and Maze Runner: The Scorch Trials, and Maze Runner: The Death Cure all are now major motion pictures featuring the star of MTV's Teen Wolf, Dylan O’Brien; Kaya Scodelario; Aml Ameen; Will Poulter; and Thomas Brodie-Sangster.", language: "English", price: 8.99 , genre: "Sci-Fi & Fantasy") 
+
+
+book_30 = Book.create(title: "Restore Me", author: "Tahereh Mafi", cover_image: "https://prodimage.images-bn.com/pimages/9780062676375_p0_v1_s550x406.jpg", summary: "An instant New York Times bestseller! Juliette and Warner’s story continues in the electrifying fourth installment of Tahereh Mafi’s bestselling Shatter Me series.
+    The girl with the power to kill with a single touch now has the world in the palm of her hand.
+    
+    Juliette Ferrars thought she’d won. She took over Sector 45, was named the new Supreme Commander of North America, and now has Warner by her side. ", language: "English", price: 10.99 , genre: "Sci-Fi & Fantasy") 
+
+
+
 
