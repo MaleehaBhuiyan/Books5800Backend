@@ -2,6 +2,7 @@
 
 # SEEDING TEMPLATE 
 
+
 # book_ = Book.create(title: "", author: "", cover_image: "", summary: "", language: "", price: , genre: "") 
 
 Book.delete_all
@@ -544,6 +545,51 @@ book_100 = Book.create(title: "Rowley Jefferson's Awesome Friendly Spooky Storie
     Rowley’s spooky stories might leave you laughing, but beware—you could end up sleeping with the lights on!
     
     And don’t miss Rowley Jefferson’s first two awesome friendly books, the instant #1 bestsellers Diary of an Awesome Friendly Kid: Rowley Jefferson’s Journal and Rowley Jefferson’s Awesome Friendly Adventure!", price: 10.49) 
+
+
+book_101 = Book.create(title: "Six of Crows", author: "Leigh Bardugo", cover_image: "https://prodimage.images-bn.com/pimages/9781250777904_p0_v4_s550x406.jpg", summary: "Ketterdam: a bustling hub of international trade where anything can be had for the right price—and no one knows that better than criminal prodigy Kaz Brekker. Kaz is offered a chance at a deadly heist that could make him rich beyond his wildest dreams. But he can't pull it off alone. . . .
+
+    A convict with a thirst for revenge.
+    A sharpshooter who can't walk away from a wager.
+    A runaway with a privileged past.
+    A spy known as the Wraith.
+    A Heartrender using her magic to survive the slums. 
+    A thief with a gift for unlikely escapes. ", price: 11.49) 
+
+
+book_102 = Book.create(title: "S.", author: "J. J. Abrams (Created by), Doug Dorst", cover_image: "https://prodimage.images-bn.com/pimages/9780316201643_p0_v4_s550x406.jpg", summary: "The chronicle of two readers finding each other, and their deadly struggle with forces beyond their understanding — all within the margins of a book conceived by Star Wars: The Force Awakensdirector J.J. Abrams and written by award-winning novelist Doug Dorst.
+
+The book: Ship of Theseus, the final novel by a prolific but enigmatic writer named V.M. Straka, in which a man with no past is shanghaied onto a strange ship with a monstrous crew and launched onto a disorienting and perilous journey.
+", price: 45.00) 
+
+
+book_103 = Book.create(title: "Great Circle", author: "Maggie Shipstead", cover_image: "https://prodimage.images-bn.com/pimages/9780525656975_p0_v96_s550x406.jpg", summary: "Readers will be swept away by Shipstead’s masterful writing in this unforgettable story of two women charting their own courses in life. Spanning over a hundred years across Montana, the Pacific Northwest, Alaska, New Zealand, London and Los Angeles, this breathtaking epic tells the story of Marian Graves, a female aviator determined to circumnavigate the globe, and Hadley Baxter, the actress cast to play Marian in a movie about her fateful disappearance in Antarctica.", price: 24.49) 
+
+
+book_104 = Book.create(title: "What If It's Us", author: "Becky Albertalli, Adam Silvera", cover_image: "https://prodimage.images-bn.com/pimages/9780062795236_p0_v1_s550x406.jpg", summary: "Critically acclaimed and bestselling authors Becky Albertalli and Adam Silvera combine their talents in this smart, funny, heartfelt collaboration about two very different boys who can’t decide if the universe is pushing them together—or pulling them apart.
+
+    ARTHUR is only in New York for the summer, but if Broadway has taught him anything, it’s that the universe can deliver a showstopping romance when you least expect it.
+    
+    BEN thinks the universe needs to mind its business. If the universe had his back, he wouldn’t be on his way to the post office carrying a box of his ex-boyfriend’s things.
+    
+    But when Arthur and Ben meet-cute at the post office, what exactly does the universe have in store for them . . . ?", price: 10.99) 
+
+
+book_105 = Book.create(title: "Presence: Bringing Your Boldest Self to Your Biggest Challenges", author: "Amy Cuddy", cover_image: "https://prodimage.images-bn.com/pimages/9780594871910_p0_v1_s550x406.jpg", summary: "Have you ever left a nerve-racking challenge and immediately wished for a do over? Maybe after a job interview, a performance, or a difficult conversation? The very moments that require us to be genuine and commanding can instead cause us to feel phony and powerless. Too often we approach our lives' biggest hurdles with dread, execute them with anxiety, and leave them with regret.", price: 3.00) 
+
+
+book_106 = Book.create(title: "Little Acts of Kindness", author: "Becky Dickinson", cover_image: "https://prodimage.images-bn.com/pimages/9781911517719_p0_v3_s550x406.jpg", summary: "Filled with inspiring suggestions, this little book dispels negativity and shows you how to open the floodgates of kindness.  From the tiny to the Titanic, you'll find all sorts of ways to brighten someone's day and help make the world a more welcoming place to live. Once you start carrying out acts of kindness you won't want to stop. What's more, you'll discover that there's no need to turn your life upside down, often it's the little things that make the biggest difference. So join the kindness revolution, for a better, more hopeful world, and a happier you.", price: 4.00) 
+
+
+book_107 = Book.create(title: "Duck Tales Colortivity with Crayons Book", author: "Dreamtivity", cover_image: "https://prodimage.images-bn.com/pimages/9781645880639_p0_v1_s550x406.jpg", price: 3.00) 
+
+
+book_108 = Book.create(title: "Little Book of Mindfulness", author: "Summersdale Publishing", cover_image: "https://prodimage.images-bn.com/pimages/9781787833258_p0_v1_s550x406.jpg", summary: "Learn to savor every moment, and notice and appreciate the little things with a more mindful approach to life. Packed with simple, easy-to-follow tips and calming quotes by writers and philosophers, this is your essential guide to feeling good and living well.", price: 4.00) 
+
+
+book_109 = Book.create(title: "The Greeks: An Illustrated History", author: "Diane Harris Cline", cover_image: "https://prodimage.images-bn.com/pimages/9781426221224_p0_v1_s550x406.jpg", price: 7.00) 
+
+
 
 
 
